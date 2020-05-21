@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Pictures\\quarantine"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "firstwebsite",
+		"liveServer.settings.CustomBrowser": "chrome"
+	}
+}
